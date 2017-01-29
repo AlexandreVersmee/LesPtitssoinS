@@ -1,0 +1,52 @@
+.headers {
+  text-align: center;
+  background: #46BCDB;
+  background-size: cover;
+  position: relative;
+  overflow: visible;
+  padding-top: 1.5rem;
+  padding-bottom: 4.9rem; }
+
+.headline {
+  font-family: "Rochester";
+  font-size: 3.5rem; }
+
+.headline-main {
+  display: block; }
+
+.headline small {
+  font-size: 65%; }
+
+.header .headline {
+  color: #ffe; }
+
+.header-subnav {
+  float: none;
+  position: absolute;
+  text-align: center;
+  margin: 0 auto;
+  bottom: 0;
+  width: 100%; }
+
+.header-subnav li {
+  float: none;
+  display: inline-block; }
+
+.header-subnav li a {
+  padding: 0.9rem 1rem;
+  font-size: 0.75rem;
+  color: #ffe;
+  text-transform: uppercase;
+  display: block;
+  font-weight: bold;
+  letter-spacing: 1px;
+  transition: all 0.35s ease-in-out; }
+
+.header-subnav li a.is-active {
+  background: rgba(0, 0, 0, 0.25); }
+
+.header-subnav li a:hover {
+  background: rgba(0, 0, 0, 0.25);
+  transition: all 0.35s ease-in-out; }
+
+/*# sourceMappingURL=header.css.map */

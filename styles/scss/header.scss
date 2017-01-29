@@ -1,0 +1,78 @@
+
+// By default Small screen
+.header {
+  text-align: center;
+  background: #074E68; //#074E68;
+  background-size: cover;
+  position: relative;
+  overflow: visible;
+  padding-top: 1.5rem;
+  padding-bottom: 1.9rem;
+  margin-bottom: 40px;
+
+  .headline {
+    font-family: "Rochester", Helvetica, Arial, sans-serif;
+    font-size: 3.5rem;
+    color: #ffe;
+
+    small {
+      font-size: 65%;
+    }
+  }
+
+  .headline-main {
+    display: block;
+  }
+}
+
+// Medium
+@media print, screen and (min-width: 40em){
+  .header {
+    padding-bottom: 3.9rem;
+
+    .header-subnav {
+      float: none;
+      position: absolute;
+      text-align: center;
+      margin: 0 auto;
+      bottom: 0;
+      width: 100%;
+
+      li {
+        float: none;
+        display: inline-block;
+
+        a {
+          padding: 0.9rem 0.33rem;
+          font-size: 0.75rem;
+          color: #ffe;
+          text-transform: uppercase;
+          display: block;
+          font-weight: bold;
+          letter-spacing: 1px;
+          transition: all 0.35s ease-in-out;
+
+          &.is-active {
+            background: rgba(250, 250, 250, 0.15);
+          }
+
+          &:hover {
+            background: rgba(250, 250, 250, 0.15);
+            transition: all 0.35s ease-in-out;
+          }
+        }
+      }
+    }
+  }
+}
+
+// Large
+@media print, screen and (min-width: 64em){
+  .header {
+    padding-bottom: 4.9rem;
+
+    .header-subnav {
+      li { a { padding: 0.9rem 1rem; } }
+    }
+  }
+}
