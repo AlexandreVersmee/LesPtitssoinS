@@ -19,6 +19,8 @@
     <link rel="stylesheet" href="../styles/css/header.css">
     <link rel="stylesheet" href="../styles/css/footer.css">
 
+    <link rel="stylesheet" href="../styles/css/index.css">
+
 </head>
 <body>
 
@@ -69,20 +71,43 @@
                 </h1>
 
                 <ul class="header-subnav show-for-medium">
-                    <li class="hide-for-medium-only"><a href="#" >Accueil</a></li>
-                    <li><a href="soin_visage.html">Soin visage</a></li>
-                    <li><a href="#">Soin corps</a></li>
-                    <li><a href="#">Epilation</a></li>
-                    <li><a href="#">Beauté des mains</a></li>
-                    <li><a href="#">Beauté des pieds</a></li>
-                    <li><a href="#">Maquillage</a></li>
+                    <li class="hide-for-medium-only"><a href="index.html" tabindex=1 >Accueil</a></li>
+                    <li><a href="#" tabindex=2 >Soin visage</a></li>
+                    <li><a href="#" tabindex=3>Soin corps</a></li>
+                    <li><a href="#" tabindex=4>Epilation</a></li>
+                    <li><a href="#" tabindex=5>Beauté des mains</a></li>
+                    <li><a href="#" tabindex=6>Beauté des pieds</a></li>
+                    <li><a href="#" tabindex=7>Maquillage</a></li>
                 </ul>
             </header>
 
             <!-- MAIN -->
             <main>
                 <div class="row">
-                    <div class="large-12 columns text-center">
+                    <div class="large-12 columns">
+                        <div class="orbit" role="region" aria-label="Favorite Space Pictures" data-orbit="px0hxu-orbit">
+                            <ul class="orbit-container" tabindex="0" style="height: 350px;">
+                                <button class="orbit-previous" aria-label="previous" tabindex="0"><span class="show-for-sr">Previous Slide</span>◀</button>
+                                <button class="orbit-next" aria-label="next" tabindex="0"><span class="show-for-sr">Next Slide</span>▶</button>
+                                <li class="orbit-slide" data-slide="0" style="max-height: 350px; display: none; position: relative; top: 0px;">
+                                    <img src="https://placehold.it/2000x750&amp;text=1st">
+                                </li>
+                                <li class="orbit-slide" data-slide="1" style="position: relative; max-height: 714px; top: 0px; display: none;">
+                                    <img src="https://placehold.it/2000x750&amp;text=2nd">
+                                </li>
+                                <li class="orbit-slide" data-slide="2" style="position: relative; max-height: 714px; top: 0px; display: none;">
+                                    <img src="https://placehold.it/2000x750&amp;text=3nd">
+                                </li>
+                                <li class="orbit-slide is-active" data-slide="3" style="position: relative; max-height: 714px; top: 0px; display: block;" aria-live="polite">
+                                    <img src="https://placehold.it/2000x750&amp;text=4nd">
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="large-12 columns text-center presentation">
                         <p>Bonjour, je suis Christel Esthéticienne à domicile à Valenciennes pour particuliers et professionnels.</p>
                         <p>Je vous propose des soins de beauté et d'esthétique à domicile, pour une clientèle exclusivement féminine.</p>
                         <p>Je me déplace  dans les alentours de Valenciennes à votre domicile, sur votre lieu de travail ou votre résidence privée sur rendez-vous.</p>
