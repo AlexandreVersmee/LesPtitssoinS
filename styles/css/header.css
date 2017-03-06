@@ -6,7 +6,6 @@
   overflow: visible;
   padding-top: 1.5rem;
   padding-bottom: 1.9rem;
-  margin-bottom: 40px;
 }
 .header .headline {
   font-family: "Rochester", Helvetica, Arial, sans-serif;
@@ -18,6 +17,14 @@
 }
 .header .headline-main {
   display: block;
+}
+
+.underHeader-contact-informations {
+  margin-bottom: 30px;
+  padding: 7px 0 !important;
+  font-size: 80%;
+  color: #eef5f3;
+  background: #333333;
 }
 
 @media print, screen and (min-width: 40em) {

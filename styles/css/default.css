@@ -1,9 +1,10 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto|Arsenal|Rochester");
-body {
-  font-family: "Roboto", "Arsenal", Arial, sans-serif !important;
-  text-rendering: optimizeLegibility;
+/*
+body{
+  font-family :  "Roboto", "Arsenal", Arial, sans-serif !important;
+  text-rendering : optimizeLegibility;
 }
-
+*/
 .pricing-table {
   border: solid 1px #DDDDDD;
 }
@@ -33,4 +34,8 @@ body {
 }
 .pricing-table .button {
   margin: 0;
+}
+
+.table-line-padding {
+  padding-left: 100px;
 }

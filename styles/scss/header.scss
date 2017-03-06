@@ -1,14 +1,14 @@
+@import "variables";
 
 // By default Small screen
 .header {
   text-align: center;
-  background: #074E68; //#074E68;
+  background: $background-color-header; //#074E68;
   background-size: cover;
   position: relative;
   overflow: visible;
   padding-top: 1.5rem;
   padding-bottom: 1.9rem;
-  margin-bottom: 40px;
 
   .headline {
     font-family: "Rochester", Helvetica, Arial, sans-serif;
@@ -24,6 +24,15 @@
     display: block;
   }
 }
+
+.underHeader-contact-informations{
+  margin-bottom:  30px;
+  padding: 7px 0 !important;
+  font-size: 80%;
+  color : #eef5f3;
+  background: $background-color-footer;
+}
+
 
 // Medium
 @media print, screen and (min-width: 40em){
