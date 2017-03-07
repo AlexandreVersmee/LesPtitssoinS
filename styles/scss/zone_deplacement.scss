@@ -1,3 +1,11 @@
+// OVERRIDE OF FOUNDATION TOOLTIPS
+
+.tooltip{
+  font-size: 100%;
+  max-width: 20rem;
+}
+
+// GOOGLE MAP STILL
 #map {
   height :700px;
   width: 100%;
@@ -26,7 +34,7 @@
   margin-left      : 12px;
   padding          : 0 11px 0 13px;
   text-overflow    : ellipsis;
-  width            : 400px;
+  width            : 250px;
 }
 
 #pac-input:focus {

@@ -15,6 +15,7 @@
         <li><a href="epilation.php" tabindex=4>Epilation</a></li>
         <li><a href="beaute_mains_et_pieds.php" tabindex=5>Beauté des mains et pieds</a></li>
         <li><a href="maquillage.php" tabindex=7>Maquillage</a></li>
+        <li><a href="offres.php" tabindex=7>Offres</a></li>
     </ul>
 
     <hr>

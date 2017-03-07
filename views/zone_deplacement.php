@@ -49,7 +49,11 @@
             <main>
                 <div class="row">
                     <div class="small-12 columns">
-                        <input id="pac-input" class="controls" type="text" placeholder="Entrez votre ville pour vous si vous êtes dans le cercle">
+                        <input id="pac-input" class="controls has-tip bottom" type="text"
+                               title="Entrez votre ville pour savoir si vous êtes dans la zone de déplacement"
+                               data-tooltip aria-haspopup="true" data-disable-hover="false"
+                               placeholder="Rechercher une ville ...">
+
                         <div id="map"></div>
                     </div>
                 </div>

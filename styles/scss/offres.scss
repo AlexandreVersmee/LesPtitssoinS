@@ -1,0 +1,30 @@
+.pricing-table {
+  border : solid 1px #DDDDDD;
+
+  li {
+    border-bottom : dotted 1px #DDDDDD;
+    font-size     : 1rem;
+    padding       : 0.875rem 1.125rem; }
+
+  li:last-child {
+    border-bottom : 0; }
+
+  .title {
+    background-color : #074e68;
+    color            : #EEEEEE;
+    font-size        : 1rem;
+    border-bottom    : 0; }
+
+  .price {
+    background-color : #F6F6F6;
+    color            : #333333;
+    font-size        : 1rem;
+    border-bottom    : 0; }
+
+  .description {
+    color     : #777777;
+    font-size : 0.625rem; }
+
+  .button {
+    margin : 0; }
+}

@@ -89,7 +89,7 @@
                                         <td class="text-center">25€</td>
                                     </tr>
                                     <tr>
-                                        <td>Pose de vernis gel sur ongle naturel</td>
+                                        <td>Pose de gel sur ongle naturel</td>
                                         <td class="text-center">40€</td>
                                     </tr>
                                     <tr>

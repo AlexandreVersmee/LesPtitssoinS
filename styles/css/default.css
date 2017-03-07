@@ -1,39 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto|Arsenal|Rochester");
-/*
-body{
-  font-family :  "Roboto", "Arsenal", Arial, sans-serif !important;
-  text-rendering : optimizeLegibility;
-}
-*/
-.pricing-table {
-  border: solid 1px #DDDDDD;
-}
-.pricing-table li {
-  border-bottom: dotted 1px #DDDDDD;
-  font-size: 1rem;
-  padding: 0.875rem 1.125rem;
-}
-.pricing-table li:last-child {
-  border-bottom: 0;
-}
-.pricing-table .title {
-  background-color: #074e68;
-  color: #EEEEEE;
-  font-size: 1rem;
-  border-bottom: 0;
-}
-.pricing-table .price {
-  background-color: #F6F6F6;
-  color: #333333;
-  font-size: 1rem;
-  border-bottom: 0;
-}
-.pricing-table .description {
-  color: #777777;
-  font-size: 0.625rem;
-}
-.pricing-table .button {
-  margin: 0;
+body {
+  font-family: "Roboto", "Arsenal", Arial, sans-serif !important;
+  text-rendering: optimizeLegibility;
 }
 
 .table-line-padding {
