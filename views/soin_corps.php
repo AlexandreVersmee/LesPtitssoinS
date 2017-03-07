@@ -81,40 +81,44 @@
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <td>Manucure</td>
+                                            <td>Modelage du dos (30 min)</td>
+                                            <td class="text-center">35€</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Modelage relaxant (1 h)</td>
+                                            <td class="text-center">55€</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Modelage relaxant (1 h 30)</td>
+                                            <td class="text-center">75€</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Modelage relaxant à la bougie (1 h)</td>
+                                            <td class="text-center">65€</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Gommage du corps</td>
                                             <td class="text-center">20€</td>
                                         </tr>
                                         <tr>
-                                            <td>Beauté des pieds</td>
-                                            <td class="text-center">25€</td>
+                                            <td>Eveloppement Arosha</td>
+                                            <td class="text-center">50€</td>
                                         </tr>
                                         <tr>
-                                            <td>Pose de vernis gel sur ongle naturel</td>
-                                            <td class="text-center">40€</td>
+                                            <td class="table-line-padding">Forfait 5 séances + 1 offerte</td>
+                                            <td class="text-center">250€</td>
                                         </tr>
                                         <tr>
-                                            <td>Comblage</td>
-                                            <td class="text-center">25€</td>
+                                            <td class="table-line-padding">Forfait 10 séances + 3 offertes</td>
+                                            <td class="text-center">500€</td>
                                         </tr>
                                         <tr>
-                                            <td>Pose de gel + capsule</td>
-                                            <td class="text-center">45€</td>
+                                            <td>Gommage et enveloppement</td>
+                                            <td class="text-center">60€</td>
                                         </tr>
                                         <tr>
-                                            <td>Vernis semi permanent</td>
-                                            <td class="text-center">25€</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Pose de vernis complémentaire</td>
-                                            <td class="text-center">3€</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Pose de french complémentaire</td>
-                                            <td class="text-center">5€</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Pose de décoration ou strass</td>
-                                            <td class="text-center">0.5€/déco</td>
+                                            <td>Gommage, enveloppement et massage</td>
+                                            <td class="text-center">100€</td>
                                         </tr>
                                     </tbody>
                                 </table>
@@ -133,12 +137,7 @@
 <script></script>
 
 <!-- SCRIPTS -->
-<script src="../assets/foundationStickyFooter/stickyFooter.js"></script>
+<?php include 'includes/scripts.php' ?>
 
-<!-- FOUNDATION -->
-<script src="../assets/foundation/js/vendor/jquery.js"></script>
-<script src="../assets/foundation/js/vendor/what-input.js"></script>
-<script src="../assets/foundation/js/vendor/foundation.js"></script>
-<script src="../assets/foundation/js/app.js"></script>
 </body>
 </html>

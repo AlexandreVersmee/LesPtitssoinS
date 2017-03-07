@@ -18,6 +18,8 @@
     <link rel="stylesheet" href="../styles/css/off-canvas.css">
     <link rel="stylesheet" href="../styles/css/header.css">
     <link rel="stylesheet" href="../styles/css/footer.css">
+
+    <link rel="stylesheet" href="../styles/css/zone_deplacement.css">
 </head>
 <body>
 
@@ -47,6 +49,8 @@
             <main>
                 <div class="row">
                     <div class="small-12 columns">
+                        <input id="pac-input" class="controls" type="text" placeholder="Entrez votre ville pour vous si vous êtes dans le cercle">
+                        <div id="map"></div>
                     </div>
                 </div>
             </main>
@@ -55,15 +59,12 @@
         </div>
     </div>
 </div>
-<script></script>
 
 <!-- SCRIPTS -->
-<script src="../assets/foundationStickyFooter/stickyFooter.js"></script>
+<?php include 'includes/scripts.php' ?>
 
-<!-- FOUNDATION -->
-<script src="../assets/foundation/js/vendor/jquery.js"></script>
-<script src="../assets/foundation/js/vendor/what-input.js"></script>
-<script src="../assets/foundation/js/vendor/foundation.js"></script>
-<script src="../assets/foundation/js/app.js"></script>
+<script src="../scripts/google_map_zone_deplacement.js"></script>
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBUa7nbQoszbkns9Zle_s1iHSXcbAVj5JY&libraries=places&callback=initAutocomplete"></script>
+
 </body>
 </html>

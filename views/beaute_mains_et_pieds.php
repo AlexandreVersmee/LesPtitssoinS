@@ -81,60 +81,40 @@
                                     </thead>
                                     <tbody>
                                     <tr>
-                                        <td>Nettoyage de peau</td>
-                                        <td class="text-center">35 €</td>
+                                        <td>Manucure</td>
+                                        <td class="text-center">20€</td>
                                     </tr>
                                     <tr>
-                                        <td>Soin spécifique</td>
-                                        <td class="text-center">55€</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Teinture de cils ou sourcils</td>
-                                        <td class="text-center">12€</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Permanente de cils</td>
-                                        <td class="text-center">30€</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Extension de cils synthétique</td>
-                                        <td class="text-center">80€</td>
-                                    </tr>
-                                    <tr>
-                                        <td class="table-line-padding">Retouche 2 semaines</td>
-                                        <td class="text-center">30€</td>
-                                    </tr>
-                                    <tr>
-                                        <td class="table-line-padding">Retouche 3 semaines</td>
-                                        <td class="text-center">45€</td>
-                                    </tr>
-                                    <tr>
-                                        <td class="table-line-padding">Retouche 4 semaines</td>
-                                        <td class="text-center">60€</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Extension de cils naturel</td>
-                                        <td class="text-center">120€</td>
-                                    </tr>
-                                    <tr>
-                                        <td class="table-line-padding">Retouche 2 semaines</td>
+                                        <td>Beauté des pieds</td>
                                         <td class="text-center">25€</td>
                                     </tr>
                                     <tr>
-                                        <td class="table-line-padding">Retouche 3 semaines</td>
-                                        <td class="text-center">35€</td>
+                                        <td>Pose de vernis gel sur ongle naturel</td>
+                                        <td class="text-center">40€</td>
                                     </tr>
                                     <tr>
-                                        <td class="table-line-padding">Retouche 4 semaines</td>
-                                        <td class="text-center">50€</td>
+                                        <td>Comblage</td>
+                                        <td class="text-center">25€</td>
                                     </tr>
                                     <tr>
-                                        <td class="table-line-padding">Retouche 5 semaines</td>
-                                        <td class="text-center">65€</td>
+                                        <td>Pose de gel + capsule</td>
+                                        <td class="text-center">45€</td>
                                     </tr>
                                     <tr>
-                                        <td class="table-line-padding">Retouche 6 semaines</td>
-                                        <td class="text-center">80€</td>
+                                        <td>Vernis semi permanent</td>
+                                        <td class="text-center">25€</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Pose de vernis complémentaire</td>
+                                        <td class="text-center">3€</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Pose de french complémentaire</td>
+                                        <td class="text-center">5€</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Pose de décoration ou strass</td>
+                                        <td class="text-center">0.5€/déco</td>
                                     </tr>
                                     </tbody>
                                 </table>
@@ -153,12 +133,7 @@
 <script></script>
 
 <!-- SCRIPTS -->
-<script src="../assets/foundationStickyFooter/stickyFooter.js"></script>
+<?php include 'includes/scripts.php' ?>
 
-<!-- FOUNDATION -->
-<script src="../assets/foundation/js/vendor/jquery.js"></script>
-<script src="../assets/foundation/js/vendor/what-input.js"></script>
-<script src="../assets/foundation/js/vendor/foundation.js"></script>
-<script src="../assets/foundation/js/app.js"></script>
 </body>
 </html>

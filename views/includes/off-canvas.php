@@ -20,9 +20,8 @@
     <hr>
 
     <ul class="off-canvas-list">
-        <li><a href="#">Contact</a></li>
-        <li><a href="#">Zone de déplacement</a></li>
-        <li><a href="#">Mentions légales</a></li>
+        <li><a href="zone_deplacement.php">Zone de déplacement</a></li>
+        <li><a href="mentions_legale.php">Mentions légales</a></li>
     </ul>
 
     <hr>

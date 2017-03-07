@@ -37,7 +37,6 @@
         <div class="medium-8 medium-pull-4 columns">
 
             <ul class="footer__lps-links">
-                <li><a href="contact.php">Contact</a></li>
                 <li><a href="zone_deplacement.php">Zone de déplacement</a></li>
                 <li><a href="mentions_legale.php">Mentions légales</a></li>
             </ul>
