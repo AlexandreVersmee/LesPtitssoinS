@@ -94,14 +94,5 @@
 <!-- SCRIPTS -->
 <?php include 'includes/scripts.php' ?>
 
-<script>
-    var onglet = ["offres.php", "beaute_mains_et_pieds.php",
-        "epilation.php", "index.php", "maquillage.php", "soin_corps.php", "soin_visage.php"];
-    var pathArray = window.location.pathname.split( '/' );
-
-    if (pathArray[3] === onglet[0])
-        $("#offres").addClass("is-active");
-</script>
-
 </body>
 </html>
