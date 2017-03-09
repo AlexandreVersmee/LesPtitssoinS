@@ -1,25 +1,14 @@
 <!DOCTYPE html>
 <html class="no-js" lang="en" dir="ltr">
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <?php include 'includes/metas.php' ?>
 
-    <title>Les P'tits Soins, Esthétique à domicile Valenciennes,
-        esthéticienne à domcile Valenciennes, esthétique à domicile à Valenciennes dans le Nord</title>
+    <title>Offres | Les P'tits Soins, Esthétique à domicile Valenciennes,
+        esthéticienne à domcile Valenciennes, esthétique à domicile</title>
 
-    <!-- Assets -->
-    <link rel="stylesheet" href="../assets/foundation/css/foundation.css">
-    <link rel="stylesheet" href="../assets/foundation/css/app.css">
-    <link rel="stylesheet" href="../assets/fontawesome/css/font-awesome.min.css">
+    <?php include 'includes/styles.php' ?>
 
-    <!-- CSS -->
-    <link rel="stylesheet" href="../styles/css/default.css">
-    <link rel="stylesheet" href="../styles/css/off-canvas.css">
-    <link rel="stylesheet" href="../styles/css/header.css">
-    <link rel="stylesheet" href="../styles/css/footer.css">
-
-    <link rel="stylesheet" href="../styles/css/offres.css">
+    <link rel="stylesheet" href="styles/css/offres.css">
 </head>
 <body>
 

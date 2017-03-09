@@ -1,24 +1,13 @@
 <!DOCTYPE html>
 <html class="no-js" lang="en" dir="ltr">
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <?php include 'includes/metas.php' ?>
 
-    <title>Les P'tits Soins, Esthétique à domicile Valenciennes,
-        esthéticienne à domcile Valenciennes, esthétique à domicile à Valenciennes dans le Nord</title>
+    <title>Epilation | Les P'tits Soins, Esthétique à domicile Valenciennes,
+        esthéticienne à domcile Valenciennes, esthétique à domicile</title>
 
-    <!-- Assets -->
-    <link rel="stylesheet" href="../assets/foundation/css/foundation.css">
-    <link rel="stylesheet" href="../assets/foundation/css/app.css">
-    <link rel="stylesheet" href="../assets/fontawesome/css/font-awesome.min.css">
-
-    <!-- CSS -->
-    <link rel="stylesheet" href="../styles/css/default.css">
-    <link rel="stylesheet" href="../styles/css/off-canvas.css">
-    <link rel="stylesheet" href="../styles/css/header.css">
-    <link rel="stylesheet" href="../styles/css/footer.css">
-    </head>
+    <?php include 'includes/styles.php' ?>
+</head>
 <body>
 
 <div class="off-canvas-wrapper">
@@ -51,7 +40,7 @@
                         <div class="media-object stack-for-small">
                             <div class="media-object-section">
                                 <div class="thumbnail">
-                                    <img src="https://placehold.it/200x150&text=Image" />
+                                    <img src="https://placehold.it/200x150&text=Image" alt="Image d'une épilation des jambes" />
                                 </div>
                             </div>
                             <div class="media-object-section">
@@ -74,7 +63,7 @@
                                 <table>
                                     <thead>
                                     <tr>
-                                        <th class="text-center">Soins</th>
+                                        <th class="text-center">Epilations</th>
                                         <th class="text-center">Prix</th>
                                     </tr>
                                     </thead>
