@@ -40,7 +40,7 @@
                         <div class="media-object stack-for-small">
                             <div class="media-object-section">
                                 <div class="thumbnail">
-                                    <img src="https://placehold.it/200x150&text=Image"  alt="Image d'un maquillage" />
+                                    <img src="images/maquillage_les_ptitssoins_estheticienne_domicile.jpg"  alt="Image d'un maquillage" />
                                 </div>
                             </div>
                             <div class="media-object-section">

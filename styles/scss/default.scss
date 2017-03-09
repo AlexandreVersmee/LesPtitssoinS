@@ -11,3 +11,7 @@ body{
 .table-line-padding{
 padding-left: $table-line-padding;
 }
+
+.thumbnail img{
+  max-width: 250px;
+}

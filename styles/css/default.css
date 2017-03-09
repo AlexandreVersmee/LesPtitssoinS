@@ -7,3 +7,7 @@ body {
 .table-line-padding {
   padding-left: 100px;
 }
+
+.thumbnail img {
+  max-width: 250px;
+}

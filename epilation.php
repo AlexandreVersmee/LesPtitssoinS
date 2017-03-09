@@ -40,7 +40,7 @@
                         <div class="media-object stack-for-small">
                             <div class="media-object-section">
                                 <div class="thumbnail">
-                                    <img src="https://placehold.it/200x150&text=Image" alt="Image d'une épilation des jambes" />
+                                    <img src="images/epilation_les_ptitssoins_estheticienne_domicile.jpg" alt="Image d'une épilation des jambes" />
                                 </div>
                             </div>
                             <div class="media-object-section">

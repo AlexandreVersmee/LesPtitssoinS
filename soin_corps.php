@@ -39,7 +39,7 @@
                         <div class="media-object stack-for-small">
                             <div class="media-object-section">
                                 <div class="thumbnail">
-                                    <img src="https://placehold.it/200x150&text=Image" alt="Image d'un soin corps" />
+                                    <img src="images/soin_corps_les_ptitssoins_estheticienne_domicile.jpg" alt="Image d'un soin corps" />
                                 </div>
                             </div>
                             <div class="media-object-section">

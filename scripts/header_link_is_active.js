@@ -7,6 +7,6 @@ var ids = ["header-link-index", "header-link-soinVisage", "header-link-soinCorps
 var pathArray = window.location.pathname.split( '/' );
 
 _.forEach(tabs, function (value, index) {
-    if (pathArray[3] === tabs[index])
+    if (pathArray[2] === tabs[index])
         $("#"+ids[index]).addClass("is-active");
 });
