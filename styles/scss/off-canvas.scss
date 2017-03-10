@@ -1,14 +1,19 @@
 @import "variables";
 
+
+/* ==========================================================================
+        DEFAULT - SMALL SCREEN
+========================================================================== */
+
 .off-canvas {
-  background-color: #2c3840;
+  background-color: #2C3840;
   padding: 15px 0;
   max-height: 100%;
   overflow-y: auto;
 
-  .off-canvas__title{
+  .off-canvas__title {
     font-family: "Rochester", Helvetica, Arial, sans-serif;
-    color: #00719a;
+    color: #00719A;
     font-size: 2.3rem;
     font-weight: 900;
   }
@@ -19,7 +24,7 @@
   }
 
   a {
-    color: #fff;
+    color: #FFF;
     font-weight: 600;
     opacity: .75;
     font-size: 1.125rem;
@@ -28,9 +33,23 @@
 }
 
 .title-bar {
-  background-color: #2c3840;
+  background-color: #2C3840;
 
-  .title-bar__icon{
-    color: #aaafb2;
+  .title-bar__icon {
+    color: #AAAFB2;
   }
+}
+
+/* ==========================================================================
+        MEDIUM SCREEN
+========================================================================== */
+
+@media print, screen and (min-width: 40em) {
+}
+
+/* ==========================================================================
+        LARGE SCREEN
+========================================================================== */
+
+@media print, screen and (min-width: 64em) {
 }

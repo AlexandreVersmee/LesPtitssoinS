@@ -1,7 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto|Arsenal|Rochester');
 @import "variables";
 
-// By default Small screen
+
+/* ==========================================================================
+        DEFAULT - SMALL SCREEN
+========================================================================== */
+
 body {
   font-family: "Roboto", "Arsenal", Arial, sans-serif !important;
   text-rendering: optimizeLegibility;
@@ -12,9 +16,10 @@ body {
   padding-left: $table-line-padding;
 }
 
+/* ==========================================================================
+        MEDIUM SCREEN
+========================================================================== */
 
-
-// Medium
 @media print, screen and (min-width: 40em) {
   // Images display on left side of each care descriptions
   .thumbnail img {
@@ -22,6 +27,9 @@ body {
   }
 }
 
-// Large
+/* ==========================================================================
+        LARGE SCREEN
+========================================================================== */
+
 @media print, screen and (min-width: 64em) {
 }

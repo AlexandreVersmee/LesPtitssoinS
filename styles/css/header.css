@@ -1,3 +1,6 @@
+/* ==========================================================================
+        DEFAULT - SMALL SCREEN
+========================================================================== */
 .header {
   text-align: center;
   background: #074E68;
@@ -10,7 +13,7 @@
 .header .headline {
   font-family: "Rochester", Helvetica, Arial, sans-serif;
   font-size: 3.5rem;
-  color: #ffe;
+  color: #FFE;
 }
 .header .headline small {
   font-size: 65%;
@@ -23,16 +26,19 @@
   margin-bottom: 30px;
   padding: 7px 0 !important;
   font-size: 80%;
-  color: #eef5f3;
+  color: #EEF5F3;
   background: #333333;
 }
 .underHeader-contact-informations a {
-  color: #eef5f3;
+  color: #EEF5F3;
 }
 .underHeader-contact-informations a:hover {
   text-decoration: dotted;
 }
 
+/* ==========================================================================
+        MEDIUM SCREEN
+========================================================================== */
 @media print, screen and (min-width: 40em) {
   .header {
     padding-bottom: 3.9rem;
@@ -52,7 +58,7 @@
   .header .header-subnav li a {
     padding: 0.9rem 0.33rem;
     font-size: 0.75rem;
-    color: #ffe;
+    color: #FFE;
     text-transform: uppercase;
     display: block;
     font-weight: bold;
@@ -67,6 +73,9 @@
     transition: all 0.35s ease-in-out;
   }
 }
+/* ==========================================================================
+        LARGE SCREEN
+========================================================================== */
 @media print, screen and (min-width: 64em) {
   .header {
     padding-bottom: 4.9rem;

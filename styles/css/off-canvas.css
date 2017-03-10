@@ -1,12 +1,15 @@
+/* ==========================================================================
+        DEFAULT - SMALL SCREEN
+========================================================================== */
 .off-canvas {
-  background-color: #2c3840;
+  background-color: #2C3840;
   padding: 15px 0;
   max-height: 100%;
   overflow-y: auto;
 }
 .off-canvas .off-canvas__title {
   font-family: "Rochester", Helvetica, Arial, sans-serif;
-  color: #00719a;
+  color: #00719A;
   font-size: 2.3rem;
   font-weight: 900;
 }
@@ -15,7 +18,7 @@
   list-style-type: none;
 }
 .off-canvas a {
-  color: #fff;
+  color: #FFF;
   font-weight: 600;
   opacity: .75;
   font-size: 1.125rem;
@@ -23,8 +26,15 @@
 }
 
 .title-bar {
-  background-color: #2c3840;
+  background-color: #2C3840;
 }
 .title-bar .title-bar__icon {
-  color: #aaafb2;
+  color: #AAAFB2;
 }
+
+/* ==========================================================================
+        MEDIUM SCREEN
+========================================================================== */
+/* ==========================================================================
+        LARGE SCREEN
+========================================================================== */

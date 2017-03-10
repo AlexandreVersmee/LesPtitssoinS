@@ -1,3 +1,6 @@
+/* ==========================================================================
+        DEFAULT - SMALL SCREEN
+========================================================================== */
 .tooltip {
   font-size: 100%;
   max-width: 20rem;
@@ -24,7 +27,7 @@
 }
 
 #pac-input {
-  background-color: #fff;
+  background-color: #FFF;
   font-family: Roboto;
   font-size: 15px;
   font-weight: 300;
@@ -35,7 +38,7 @@
 }
 
 #pac-input:focus {
-  border-color: #4d90fe;
+  border-color: #4D90FE;
 }
 
 .pac-container {
@@ -43,8 +46,8 @@
 }
 
 #type-selector {
-  color: #fff;
-  background-color: #4d90fe;
+  color: #FFF;
+  background-color: #4D90FE;
   padding: 5px 11px 0px 11px;
 }
 
@@ -53,3 +56,10 @@
   font-size: 13px;
   font-weight: 300;
 }
+
+/* ==========================================================================
+        MEDIUM SCREEN
+========================================================================== */
+/* ==========================================================================
+        LARGE SCREEN
+========================================================================== */
