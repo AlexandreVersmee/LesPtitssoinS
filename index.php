@@ -34,10 +34,10 @@
 
             <?php include 'includes/contactInformations.php' ?>
 
-
             <!-- MAIN -->
             <main>
-                <div class="row">
+                <!-- SLIDER -->
+                <div class="row show-for-medium">
                     <div class="large-12 columns slider-block">
                         <div class="orbit" data-orbit>
                             <ul class="orbit-container">
@@ -62,6 +62,7 @@
                     </div>
                 </div>
 
+                <!-- SPEECH -->
                 <div class="row">
                     <div class="large-12 columns text-center presentation">
                         <p>Bonjour, je suis Christel Esthéticienne à domicile à Valenciennes pour particuliers et

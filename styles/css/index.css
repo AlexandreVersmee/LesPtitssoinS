@@ -3,5 +3,11 @@
 }
 
 .underHeader-contact-informations {
-  margin-bottom: 0;
+  margin-bottom: 20px;
+}
+
+@media print, screen and (min-width: 40em) {
+  .underHeader-contact-informations {
+    margin-bottom: 0;
+  }
 }
