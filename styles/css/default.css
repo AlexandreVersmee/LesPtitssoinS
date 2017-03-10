@@ -8,6 +8,8 @@ body {
   padding-left: 100px;
 }
 
-.thumbnail img {
-  max-width: 250px;
+@media print, screen and (min-width: 40em) {
+  .thumbnail img {
+    max-width: 250px;
+  }
 }

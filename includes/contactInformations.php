@@ -23,7 +23,7 @@
                 <i class="fa fa-square-o fa-stack-2x"></i>
                 <i class="fa fa-at fa-stack-1x"></i>
             </span>
-            <span id="emailLPS"></span>
+            <span id="emailHeaderLPS"></span>
         </div>
 
     </div>

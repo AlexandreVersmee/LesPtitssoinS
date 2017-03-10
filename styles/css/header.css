@@ -26,6 +26,12 @@
   color: #eef5f3;
   background: #333333;
 }
+.underHeader-contact-informations a {
+  color: #eef5f3;
+}
+.underHeader-contact-informations a:hover {
+  text-decoration: dotted;
+}
 
 @media print, screen and (min-width: 40em) {
   .header {
