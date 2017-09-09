@@ -3,8 +3,7 @@
 <head>
     <?php include 'includes/metas.php' ?>
 
-    <title>Les P'tits Soins, Esthétique à domicile Valenciennes,
-        esthéticienne à domcile Valenciennes, esthétique à domicile</title>
+    <title>Les P'tits Soins, Esthétique Valenciennes, esthéticienne à Valenciennes, esthétique </title>
 
     <?php include 'includes/styles.php' ?>
 

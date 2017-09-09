@@ -3,8 +3,7 @@
 <head>
     <?php include 'includes/metas.php' ?>
 
-    <title>Beauté des mains et des peids | Les P'tits Soins, Esthétique à domicile Valenciennes,
-        esthéticienne à domcile Valenciennes, esthétique à domicile</title>
+    <title>Beauté des mains et des peids | Les P'tits Soins, Esthétique Valenciennes, esthéticienne à Valenciennes, esthétique </title>
 
     <?php include 'includes/styles.php' ?>
 
@@ -41,7 +40,7 @@
                         <div class="media-object stack-for-small">
                             <div class="media-object-section">
                                 <div class="thumbnail">
-                                    <img src="images/manucure_les_ptitssoins_estheticienne_domicile.jpg" alt="Image d'une manucure réalisé par L'esthéticienne à domicile Les P'tits soinS" />
+                                    <img src="images/manucure_les_ptitssoins_estheticienne.jpg" alt="Image d'une manucure réalisé par L'esthéticienne à domicile Les P'tits soinS" />
                                 </div>
                             </div>
                             <div class="media-object-section">

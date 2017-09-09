@@ -29,13 +29,13 @@ footer .footer__social-links li a {
   display: block;
   height: 50px;
   width: 50px;
-  color: #707070;
+  color: #989898;
 }
 footer .footer__social-links li a .fa-inverse {
   color: #333333;
 }
 footer .footer__social-links li a:hover {
-  opacity: 0.8;
+  opacity: 0.5;
 }
 footer .footer__lps-links {
   display: inline-block;

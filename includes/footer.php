@@ -7,6 +7,14 @@
 
             <ul class="footer__social-links">
                 <li>
+                    <a href="contact.php" title="Comment s'y rendre" >
+                     <span class="fa-stack fa-lg">
+                          <i class="fa fa-circle fa-stack-2x"></i>
+                          <i class="fa fa-map-marker fa-stack-1x fa-inverse"></i>
+                        </span>
+                    </a>
+                </li>²
+                <li>
                     <a href="#">
                         <span class="fa-stack fa-lg">
                           <i class="fa fa-circle fa-stack-2x"></i>

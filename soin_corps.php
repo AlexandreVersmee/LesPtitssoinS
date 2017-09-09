@@ -3,8 +3,7 @@
 <head>
     <?php include 'includes/metas.php' ?>
 
-    <title>Soin corps | Les P'tits Soins, Esthétique à domicile Valenciennes,
-        esthéticienne à domcile Valenciennes, esthétique à domicile</title>
+    <title>Soin corps | Les P'tits Soins, Esthétique Valenciennes, esthéticienne à Valenciennes, esthétique </title>
 
     <?php include 'includes/styles.php' ?>
 </head>
@@ -39,7 +38,7 @@
                         <div class="media-object stack-for-small">
                             <div class="media-object-section">
                                 <div class="thumbnail">
-                                    <img src="images/soin_corps_les_ptitssoins_estheticienne_domicile.jpg" alt="Image d'un soin corps" />
+                                    <img src="images/soin_corps_les_ptitssoins_estheticienne.jpg" alt="Image d'un soin corps" />
                                 </div>
                             </div>
                             <div class="media-object-section">

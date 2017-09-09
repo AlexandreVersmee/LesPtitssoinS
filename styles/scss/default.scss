@@ -11,6 +11,10 @@ body {
   text-rendering: optimizeLegibility;
 }
 
+address{
+  font-style: normal !important;
+}
+
 // Table pricing
 .table-line-padding {
   padding-left: $table-line-padding;

@@ -7,6 +7,10 @@ body {
   text-rendering: optimizeLegibility;
 }
 
+address {
+  font-style: normal !important;
+}
+
 .table-line-padding {
   padding-left: 100px;
 }

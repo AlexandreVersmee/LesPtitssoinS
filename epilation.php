@@ -3,8 +3,7 @@
 <head>
     <?php include 'includes/metas.php' ?>
 
-    <title>Epilation | Les P'tits Soins, Esthétique à domicile Valenciennes,
-        esthéticienne à domcile Valenciennes, esthétique à domicile</title>
+    <title>Epilation | Les P'tits Soins, Esthétique Valenciennes, esthéticienne à Valenciennes, esthétique </title>
 
     <?php include 'includes/styles.php' ?>
 </head>
@@ -40,7 +39,7 @@
                         <div class="media-object stack-for-small">
                             <div class="media-object-section">
                                 <div class="thumbnail">
-                                    <img src="images/epilation_les_ptitssoins_estheticienne_domicile.jpg" alt="Image d'une épilation des jambes" />
+                                    <img src="images/epilation_les_ptitssoins_estheticienne.jpg" alt="Image d'une épilation des jambes" />
                                 </div>
                             </div>
                             <div class="media-object-section">

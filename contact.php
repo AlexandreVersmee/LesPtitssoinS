@@ -43,14 +43,16 @@
                     </div>
                     <div class="small-6 columns">
 
-                        <p>Adresse :
+                        <h5>Adresse</h5>
+                        <p>
                             <address>
-                                238 Rue Jean Jaurès, 59410 Anzin, France
+                                <i class="fa fa-building-o"></i> 238 Rue Jean Jaurès, 59410 Anzin, France
                             </address>
                         </p>
+
+                        <h5>Tram</h5>
                         <p>
-                            Tram :
-                                Direction Condé, arrêt "Centre des Congrès"
+                            <i class="fa fa-subway"></i> Direction Condé, arrêt - Centre des Congrès
                         </p>
                     </div>
                 </div>
