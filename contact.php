@@ -3,12 +3,12 @@
 <head>
     <?php include 'includes/metas.php' ?>
 
-    <title>Zone de déplacement | Les P'tits Soins, Esthétique à domicile Valenciennes,
-        esthéticienne à domcile Valenciennes, esthétique à domicile</title>
+    <title>Contact | Les P'tits Soins, Esthétique Valenciennes,
+        esthéticienne à Valenciennes, esthétique </title>
 
     <?php include 'includes/styles.php' ?>
 
-    <link rel="stylesheet" href="styles/css/zone_deplacement.css">
+    <link rel="stylesheet" href="styles/css/contact.css">
 </head>
 <body>
 
@@ -37,13 +37,21 @@
             <!-- MAIN -->
             <main>
                 <div class="row">
-                    <div class="small-12 columns">
-                        <input id="pac-input" class="controls has-tip bottom" type="text"
-                               title="Entrez votre ville pour savoir si vous êtes dans la zone de déplacement"
-                               data-tooltip aria-haspopup="true" data-disable-hover="false"
-                               placeholder="Rechercher une ville ...">
+                    <div class="small-6 columns">
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10177.89734790261!2d3.5176563!3d50.3763556!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe61c79c30e7de27b!2sCentrale+de+la+coiffure!5e0!3m2!1sfr!2sfr!4v1504880450338"
+                        width="100%" height="450px" frameborder="0" style="border:0" allowfullscreen></iframe>
+                    </div>
+                    <div class="small-6 columns">
 
-                        <div id="map"></div>
+                        <p>Adresse :
+                            <address>
+                                238 Rue Jean Jaurès, 59410 Anzin, France
+                            </address>
+                        </p>
+                        <p>
+                            Tram :
+                                Direction Condé, arrêt "Centre des Congrès"
+                        </p>
                     </div>
                 </div>
             </main>
@@ -55,9 +63,6 @@
 
 <!-- SCRIPTS -->
 <?php include 'includes/scripts.php' ?>
-
-<script src="scripts/google_map_zone_deplacement.js"></script>
-<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBUa7nbQoszbkns9Zle_s1iHSXcbAVj5JY&libraries=places&callback=initAutocomplete"></script>
 
 </body>
 </html>

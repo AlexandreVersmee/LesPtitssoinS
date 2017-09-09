@@ -21,7 +21,7 @@
         <!-- CONTENT OF WEBPAGE -->
         <div class="off-canvas-content" data-off-canvas-content>
             <div class="title-bar hide-for-medium">
-                <div class="title-bar-left">
+                <div class="title-bar-right">
                     <button class="menu-icon-style" type="button" data-open="offCanvas" aria-expanded="false"
                             aria-controls="offCanvas">
                         <i class="fa fa-navicon title-bar__icon"></i>

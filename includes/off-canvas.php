@@ -1,5 +1,5 @@
 
-<div class="off-canvas position-left" id="offCanvas" data-off-canvas>
+<div class="off-canvas position-right" id="offCanvas" data-off-canvas>
 
     <ul class="off-canvas-list">
         <li><label class="off-canvas__title">Les P'tits soinS</label></li>
@@ -17,14 +17,5 @@
         <li><a href="maquillage.php" tabindex=7>Maquillage</a></li>
         <li><a href="offres.php" tabindex=7>Offres</a></li>
     </ul>
-
-    <hr>
-
-    <ul class="off-canvas-list">
-        <li><a href="zone_deplacement.php">Zone de déplacement</a></li>
-        <li><a href="mentions_legale.php">Mentions légales</a></li>
-    </ul>
-
-    <hr>
-
+	
 </div>
