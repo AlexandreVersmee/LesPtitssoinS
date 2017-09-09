@@ -37,22 +37,22 @@
             <!-- MAIN -->
             <main>
                 <div class="row">
-                    <div class="small-6 columns">
+                    <div class="medium-6 columns">
                         <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10177.89734790261!2d3.5176563!3d50.3763556!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe61c79c30e7de27b!2sCentrale+de+la+coiffure!5e0!3m2!1sfr!2sfr!4v1504880450338"
                         width="100%" height="450px" frameborder="0" style="border:0" allowfullscreen></iframe>
                     </div>
-                    <div class="small-6 columns">
+                    <div class="medium-6 columns">
 
-                        <h5>Adresse</h5>
+                        <h5><i class="fa fa-building"></i> Adresse</h5>
                         <p>
                             <address>
-                                <i class="fa fa-building-o"></i> 238 Rue Jean Jaurès, 59410 Anzin, France
+                                 238 Rue Jean Jaurès, 59410 Anzin, France
                             </address>
                         </p>
 
-                        <h5>Tram</h5>
+                        <h5><i class="fa fa-subway"></i> Tram</h5>
                         <p>
-                            <i class="fa fa-subway"></i> Direction Condé, arrêt - Centre des Congrès
+                            Direction Condé, arrêt - Centre des Congrès
                         </p>
                     </div>
                 </div>
