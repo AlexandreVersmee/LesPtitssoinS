@@ -1,4 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto|Arsenal|Rochester");
+/* ==========================================================================
+        DEFAULT - SMALL SCREEN
+========================================================================== */
 body {
   font-family: "Roboto", "Arsenal", Arial, sans-serif !important;
   text-rendering: optimizeLegibility;
@@ -8,8 +11,14 @@ body {
   padding-left: 100px;
 }
 
+/* ==========================================================================
+        MEDIUM SCREEN
+========================================================================== */
 @media print, screen and (min-width: 40em) {
   .thumbnail img {
     max-width: 250px;
   }
 }
+/* ==========================================================================
+        LARGE SCREEN
+========================================================================== */

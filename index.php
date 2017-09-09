@@ -43,16 +43,13 @@
                             <ul class="orbit-container">
 
                                 <li class="orbit-slide is-active">
-                                    <img src="https://placehold.it/2000x450&amp;text=1st">
+                                    <img src="images/Sans%20titre-1.jpg">
                                 </li>
                                 <li class="orbit-slide" >
-                                    <img src="https://placehold.it/2000x450&amp;text=2nd">
+                                    <img src="images/Sans%20titre-2.jpg">
                                 </li>
                                 <li class="orbit-slide">
-                                    <img src="https://placehold.it/2000x450&amp;text=3nd">
-                                </li>
-                                <li class="orbit-slide">
-                                    <img src="https://placehold.it/2000x450&amp;text=4nd">
+                                    <img src="images/Sans%20titre-3.jpg">
                                 </li>
 
                                 <button class="orbit-previous" aria-label="previous" tabindex="0"><span class="show-for-sr">Previous Slide</span>◀</button>

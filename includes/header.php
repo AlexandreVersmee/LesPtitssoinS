@@ -14,9 +14,11 @@
         <li><a id="header-link-epilation" href="epilation.php" tabindex=4>Epilation</a></li>
         <li><a id="header-link-beaute" href="beaute_mains_et_pieds.php" tabindex=5>Beauté des mains et pieds</a></li>
         <li><a id="header-link-maquillage" href="maquillage.php" tabindex=7>Maquillage</a></li>
-        <li><a id="header-link-offres" href="offres.php" tabindex=7 style="border-bottom: 2px dotted orange">
+        <li><a id="header-link-offres" href="offres.php" tabindex=7 style="/*border-bottom: 2px dotted orange*/">
                 <span style="/*border-bottom: 2px dotted orange;padding-bottom: 10px;*/">
+                    <i class="fa fa-bullhorn fa-flip-horizontal" style="font-size:18px;padding-left:7px"></i>
                     Offres
+                    <i class="fa fa-bullhorn" style="font-size:18px;padding-left:7px"></i>
                 </span>
             </a>
         </li>
