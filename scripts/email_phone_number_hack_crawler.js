@@ -1,14 +1,15 @@
-var username = "lesptitssoins";
-var hostname = "gmail.com";
+let username = "lesptitssoins";
+let hostname = "gmail.com";
 
-var emailString =  username + "@" + hostname;
-var emailMailTo = "mailto:" + emailString;
+let emailString =  username + "@" + hostname;
+let emailMailTo = "mailto:" + emailString;
 
-var linktext = "<a href='" + emailMailTo + "'>" + emailString + "</a>" ;
+let linktext = "<a href='" + emailMailTo + "'>" + emailString + "</a>" ;
 
-var phoneNumber = "07 60 00 17 12";
+let phoneNumber = "07 60 00 17 12";
 
 
+$("#phoneNumberLPSContact").html(phoneNumber);
 $("#phoneNumberLPS").html(phoneNumber);
 $("#emailHeaderLPS").html(linktext);
 $("#emailFooterLPS").attr("href", emailMailTo);
